@@ -1,0 +1,4 @@
+carId,brand,model,desc,price,status
+0,a,a,a,0,false
+1,b,b,b,1,false
+1,Tesla,Model X,electric,6000,true
